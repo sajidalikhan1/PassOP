@@ -248,10 +248,3 @@ const Manager = () => {
 
 export default Manager;
 
-
-// react tostify website is used for making toasts.
-// tostify is library
-// we need to import upper
-
-// next we are using uuid for generating unqiue id
-// after installing we are importing
